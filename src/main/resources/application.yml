@@ -1,0 +1,7 @@
+spring:
+  cache:
+    type: caffeine
+  redis:
+    host:
+    port: 16726
+    password:
